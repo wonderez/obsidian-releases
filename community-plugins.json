@@ -62627,5 +62627,12 @@
     "author": "Juan Carlos Esguerra",
     "description": "Browse, organize and edit flashcards written as list items in your notes, grouped by the concepts they link to, with a concept map and one-way Anki sync. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "jcesguerram/flashcard-bank"
+  },
+  {
+    "id": "tab-settings-enhanced",
+    "name": "Tab Settings Enhanced",
+    "author": "CTA System",
+    "description": "Enhanced tab management: control where new tabs open, tab navigator with search/history, and parent-relative positioning.",
+    "repo": "wonderez/tab-settings-enhanced"
   }
 ]
